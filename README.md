@@ -9,11 +9,11 @@
 
 An archived Squeak/Smalltalk change using real-time generation of flame graphics to display availability using fun graphics on a device that sits on my desk.
 
-`FlamesRefactor.st` is a self-contained collection of code written in Smalltalk-80 on the [Squeak](https://squeak.org/) 5.3 platform. Squeak is a _dialect_ of the [Smalltalk-80 programming language](https://wiki.squeak.org/squeak/373).
+`FlamesRefactor.st` is a self-contained collection of code written in Smalltalk-80 on the [Squeak](https://squeak.org/) platform. Squeak is a _dialect_ of the [Smalltalk-80 programming language](https://wiki.squeak.org/squeak/373).
 
 ## Project History
 
-In 2021, I ported FireDemo to Smalltalk and created a UI to display different graphics to indicate whether I was Available or Busy.
+This project was developed using Squeak 5.3 in 2021, I ported FireDemo to Smalltalk and created a UI to display different graphics to indicate whether I was Available or Busy.
 
 It is preserved as an example of exploratory programming written in Smalltalk-80 and is not under active development. It may require modifications to work with current Squeak versions.
 
