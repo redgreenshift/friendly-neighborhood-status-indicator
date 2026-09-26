@@ -7,7 +7,7 @@
 [![Language: Smalltalk-80](https://img.shields.io/badge/Smalltalk--80-B8DAFD)](https://en.wikipedia.org/wiki/Smalltalk)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow)](LICENSE)
 
-An archived Squeak/Smalltalk project that combined real-time procedural flame graphics with a desktop availability display running on a dedicated Raspberry Pi device for open-office environments, in a fun and highly visible way.
+An archived Squeak/Smalltalk project that combined real-time procedural flame graphics with a desktop availability display running on a dedicated Raspberry Pi device for open-office environments in a fun and highly visible way.
 
 The system ran on a Raspberry Pi and provided a visual indication of whether I was Available or Busy, while also serving as an experiment in generating animated graphics in real-time using Smalltalk.
 
@@ -27,7 +27,7 @@ Squeak provided a platform that solved all three problems simultaneously.
 
 ## Project History
 
-This project began in March 2020 using Squeak 5.3. Using a Raspberry Pi and touchscreen, I built a desktop availability display around my Smalltalk port of FireDemo, capable of showing different animated graphics to indicate whether I was Available or Busy.
+This project began in March 2020 using Squeak 5.3. Using a Raspberry Pi and touchscreen, I built a desktop availability display around my Smalltalk port of `FireDemo`, capable of showing different animated graphics to indicate whether I was Available or Busy.
 
 The project remained under active development for roughly two years. During that time I explored both procedural graphics and UI development in Smalltalk while learning the Raspberry Pi platform.
 
@@ -56,7 +56,7 @@ This repository is preserved as an example of exploratory programming in Smallta
 
 [`FireDemo`](https://github.com/redgreenshift/firedemo) occupies the unusual position of being both the direct predecessor and the direct successor of this project.
 
-`Friendly Neighborhood Status Indicator` began as a specialized application built on top of the original `FireDemo` flame effects. Later, the lessons learned here were folded back into `FireDemo` and then the graphics engine was expanded with additional effects such as lightning, plasma, and more.
+`Friendly Neighborhood Status Indicator` began as a specialized application built on top of the original `FireDemo` flame effects. Later, the lessons learned here were folded back into `FireDemo`, where the graphics engine was expanded with additional effects such as lightning, plasma, and more.
 
 See the [`FireDemo` Project History](https://github.com/redgreenshift/FireDemo/blob/main/README.md#funny-circular-lineage) for the full explanation of this somewhat circular lineage.
 
