@@ -9,6 +9,20 @@
 
 An archived Squeak/Smalltalk change using real-time generation of flame graphics to display availability using fun graphics on a device that sits on my desk.
 
-`FlamesRefactor.st` is a self-contained collection of Squeak code written in Smalltalk-80 for the [Squeak](https://squeak.org/) platform. Squeak is a _dialect_ of the [Smalltalk-80 programming language](https://wiki.squeak.org/squeak/373).
+`FlamesRefactor.st` is a self-contained collection of code written in Smalltalk-80 on the [Squeak](https://squeak.org/) 5.3 platform. Squeak is a _dialect_ of the [Smalltalk-80 programming language](https://wiki.squeak.org/squeak/373).
+
+## Project History
+
+In 2021, I ported FireDemo to Smalltalk and created a UI to display different graphics to indicate whether I was Available or Busy.
+
+It is preserved as an example of exploratory programming written in Smalltalk-80 and is not under active development. It may require modifications to work with current Squeak versions.
+
+## Related Projects
+
+### Successor Projects
+
+[`FireDemo`](https://github.com/redgreenshift/firedemo) is **both** a direct ancestor **and** the direct successor
+to `Friendly Neighborhood Status Indicator`. See the [`FireDemo` Project History](https://github.com/redgreenshift/FireDemo/blob/main/README.md#funny-circular-lineage) for full details of the looping lineage.
+It expanded this initial implementation into more lighting-effects including lightning, and plasma.
 
 
