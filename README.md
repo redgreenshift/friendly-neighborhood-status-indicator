@@ -19,9 +19,9 @@ It is preserved as an example of exploratory programming written in Smalltalk-80
 
 ## Related Projects
 
-### Successor Projects
+### Predecessor & Successor Project
 
-[`FireDemo`](https://github.com/redgreenshift/firedemo) is **both** a direct ancestor **and** the direct successor
+[`FireDemo`](https://github.com/redgreenshift/firedemo) is **both** the direct precursor **and** the direct successor
 to `Friendly Neighborhood Status Indicator`. See the [`FireDemo` Project History](https://github.com/redgreenshift/FireDemo/blob/main/README.md#funny-circular-lineage) for full details of the looping lineage.
 It expanded this initial implementation into more lighting-effects including lightning, and plasma.
 
